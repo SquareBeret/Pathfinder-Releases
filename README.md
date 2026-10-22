@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
 
 # Pathfinder
@@ -17,6 +20,8 @@ Trace connections, dive into functions, and give your AI assistant structural co
 </div>
 
 ---
+
+https://github.com/user-attachments/assets/29d79380-9105-490d-bcde-9a5ae6ccf175
 
 An unfamiliar repository has a lot to tell you. Pathfinder gives you a map to explore it: files, imports, function calls, routes, services, configuration, and the connections between them.
 
