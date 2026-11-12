@@ -29,7 +29,7 @@ Run it on your own machine, choose a project folder, and explore in your browser
 
 ## Download Pathfinder
 
-**Current release: [v0.1.4 — beta](https://github.com/SquareBeret/Pathfinder-Releases/releases/tag/v0.1.4)**
+**Current release: [v0.1.6 — beta](https://github.com/SquareBeret/Pathfinder-Releases/releases/tag/v0.1.6)**
 
 | Your computer | Download |
 | --- | --- |
