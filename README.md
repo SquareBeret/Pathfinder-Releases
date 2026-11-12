@@ -33,10 +33,10 @@ Run it on your own machine, choose a project folder, and explore in your browser
 
 | Your computer | Download |
 | --- | --- |
-| Windows 10 or later · 64-bit Intel / AMD | **[Windows ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.4/pathfinder-win-x64.zip)** |
-| macOS · Apple Silicon | **[Mac ARM64 ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.4/pathfinder-mac-arm64.zip)** |
-| macOS · Intel | **[Mac Intel ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.4/pathfinder-mac-x64.zip)** |
-| Linux · 64-bit Intel / AMD | **[Linux ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.4/pathfinder-linux-x64.zip)** |
+| Windows 10 or later · 64-bit Intel / AMD | **[Windows ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.6/pathfinder-win-x64.zip)** |
+| macOS · Apple Silicon | **[Mac ARM64 ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.6/pathfinder-mac-arm64.zip)** |
+| macOS · Intel | **[Mac Intel ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.6/pathfinder-mac-x64.zip)** |
+| Linux · 64-bit Intel / AMD | **[Linux ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.6/pathfinder-linux-x64.zip)** |
 
 [All releases](https://github.com/SquareBeret/Pathfinder-Releases/releases) · [SHA-256 checksums](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.4/SHA256SUMS.txt)
 
