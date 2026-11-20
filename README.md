@@ -7,12 +7,12 @@
 Explore your codebase as an interactive architecture map.<br>
 Trace connections, dive into functions, and give your AI assistant structural context.
 
-[![Release](https://img.shields.io/badge/release-v0.1.6-2563eb)](https://github.com/SquareBeret/Pathfinder-Releases/releases/tag/v0.1.6)
+[![Release](https://img.shields.io/badge/release-v0.1.7-2563eb)](https://github.com/SquareBeret/Pathfinder-Releases/releases/tag/v0.1.7)
 ![Status](https://img.shields.io/badge/status-beta-f59e0b)
 ![Platforms](https://img.shields.io/badge/platforms-Windows%20%C2%B7%20macOS%20%C2%B7%20Linux-64748b)
 ![Local](https://img.shields.io/badge/runs-locally-15803d)
 
-**[Download](#download-pathfinder)** · **[Get started](#get-started)** · **[What you can do](#what-you-can-do)** · **[Release notes](https://github.com/SquareBeret/Pathfinder-Releases/releases/tag/v0.1.6)**
+**[Download](#download-pathfinder)** · **[Get started](#get-started)** · **[What you can do](#what-you-can-do)** · **[Release notes](https://github.com/SquareBeret/Pathfinder-Releases/releases/tag/v0.1.7)**
 
 </div>
 
@@ -26,16 +26,16 @@ Run it on your own machine, choose a project folder, and explore in your browser
 
 ## Download Pathfinder
 
-**Current release: [v0.1.6 — beta](https://github.com/SquareBeret/Pathfinder-Releases/releases/tag/v0.1.6)**
+**Current release: [v0.1.7 — beta](https://github.com/SquareBeret/Pathfinder-Releases/releases/tag/v0.1.7)**
 
 | Your computer | Download |
 | --- | --- |
-| Windows 10 or later · 64-bit Intel / AMD | **[Windows ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.6/pathfinder-win-x64.zip)** |
-| macOS · Apple Silicon | **[Mac ARM64 ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.6/pathfinder-mac-arm64.zip)** |
-| macOS · Intel | **[Mac Intel ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.6/pathfinder-mac-x64.zip)** |
-| Linux · 64-bit Intel / AMD | **[Linux ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.6/pathfinder-linux-x64.zip)** |
+| Windows 10 or later · 64-bit Intel / AMD | **[Windows ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.7/pathfinder-win-x64.zip)** |
+| macOS · Apple Silicon | **[Mac ARM64 ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.7/pathfinder-mac-arm64.zip)** |
+| macOS · Intel | **[Mac Intel ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.7/pathfinder-mac-x64.zip)** |
+| Linux · 64-bit Intel / AMD | **[Linux ZIP](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.7/pathfinder-linux-x64.zip)** |
 
-[All releases](https://github.com/SquareBeret/Pathfinder-Releases/releases) · [SHA-256 checksums](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.6/SHA256SUMS.txt)
+[All releases](https://github.com/SquareBeret/Pathfinder-Releases/releases) · [SHA-256 checksums](https://github.com/SquareBeret/Pathfinder-Releases/releases/download/v0.1.7/SHA256SUMS.txt)
 
 Download the ZIP for your platform from the table above. GitHub's automatic **Source code** archives are not the application.
 
@@ -96,14 +96,14 @@ Detailed symbol-call exploration is available for **JavaScript / TypeScript and 
 - Recent-project preferences are stored locally for your user account.
 - AI integrations use the client you configure; that client's data handling applies when you use it.
 
-## What's new in v0.1.6?
+## What's new in v0.1.7?
 
-- **Scan exclusions:** pick folders to leave out of scans from a folder tree, or use **Skip folder** on a node or Reconcile row. Excluded files leave the graph cleanly instead of showing as missing. Rules live in a plain `.pathfinderignore` file.
-- **Redesigned graph UI:** regrouped top bar, canvas controls, a single filter panel, a project overview in the inspector, and a status bar.
-- **Lighter change requests:** step-by-step progress tracking, optional verification, and plain-description drafts.
-- **Portable MCP setup:** machine-specific client configs are no longer committed, and broken entries can be repaired from the UI or CLI.
+- **Parallel change requests:** run several requests at once. Rebase, park, withdraw or supersede a request, see overlaps with other open requests, and declare prerequisites.
+- **Plans that came true are recognised:** planned connections now match the real imports and calls the scanner finds, instead of showing as *not found*.
+- **MCP integration monitor:** a status-bar chip shows whether each AI client is connected properly and flags broken setups.
+- **Polished 3D rendering:** shaded nodes, depth fog and depth-aware edges make large graphs easier to read and faster to draw.
 
-**[Read the full v0.1.6 release notes →](https://github.com/SquareBeret/Pathfinder-Releases/releases/tag/v0.1.6)**
+**[Read the full v0.1.7 release notes →](https://github.com/SquareBeret/Pathfinder-Releases/releases/tag/v0.1.7)**
 
 ## Feedback
 
